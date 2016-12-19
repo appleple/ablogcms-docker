@@ -1,0 +1,5 @@
+syncs:
+  web-sync:
+    src: './acms.dev'
+    dest: '/var/www/html'
+    sync_strategy: 'unison'
