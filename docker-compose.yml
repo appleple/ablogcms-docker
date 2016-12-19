@@ -18,7 +18,7 @@ services:
         ports:
             - "80:80"
 
-    # app
+    # www
     www:
         image: atsu666/ioncube:7.0
         privileged: true

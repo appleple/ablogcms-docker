@@ -1,5 +1,5 @@
 syncs:
   web-sync:
-    src: './acms.dev'
+    src: './www'
     dest: '/var/www/html'
     sync_strategy: 'unison'
